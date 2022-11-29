@@ -1,0 +1,11 @@
+1. due to th need of enormus amount of codeing to cover all races
+2. complcations rose while trying to solve problem 1
+3. i could not figure out how to write a code that could terminate life
+4. i could not figure out how to write a code that could ask questions_ take reply and use the data
+5. i could not figure out how to write a code that could twist life and throw adventures
+6. i could not figure out how to write a code that could statstially do 3_4_5
+7. the best way to program games is by OOP(object oriented programing) and do not full understand it
+8. i could not figure out how to write a code that could intersect death reasons by sex age race and country
+other reasons that you will find on the way
+
+and keep an eye on racism and sexism
